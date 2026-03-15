@@ -18,6 +18,9 @@ I develop solutions that combine large language models, automation, and scalable
 
 ## 🧠 Tech Stack
 
+<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+
+
 ### AI / Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
