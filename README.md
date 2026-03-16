@@ -32,6 +32,8 @@ I develop solutions that combine large language models, automation, and scalable
   <img alt="Django" title="Django" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 </div>
 
+## 📊 Stats
+
 <div>
   <h3>on github ...</h3>
   <div align="center">
