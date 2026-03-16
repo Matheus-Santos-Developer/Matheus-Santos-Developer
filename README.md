@@ -32,10 +32,11 @@ I develop solutions that combine large language models, automation, and scalable
   <img alt="Django" title="Django" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 </div>
 
+---
+
 ## 📊 Stats
 
 <div>
-  <h3>on github ...</h3>
   <div align="center">
     <a href="https://github.com/Matheus-Santos-Developer">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Santos-Developer&show_icons=true&theme=dark&include_all_commits=true"/>
