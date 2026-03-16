@@ -19,6 +19,7 @@ I develop solutions that combine large language models, automation, and scalable
 ## 🧠 Tech Stack
 
 <div>
+  ## 🧠 Tech Stack
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
