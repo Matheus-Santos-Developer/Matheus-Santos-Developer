@@ -8,7 +8,8 @@ I develop solutions that combine large language models, automation, and scalable
 
 ## ✉️ Contact
 
-[![LinkedIn](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/matheus-santos-developer/)\n
+[![LinkedIn](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/matheus-santos-developer/)
+
 matheus.santos.engineer@gmail.com
 
 ---
