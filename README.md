@@ -6,6 +6,12 @@ I develop solutions that combine large language models, automation, and scalable
 
 ---
 
+## ✉️ Contact
+
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/matheus-santos-developer/))
+
+---
+
 ## 🚀 What I Work With
 
 - AI Agents
